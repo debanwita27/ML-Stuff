@@ -1,4 +1,15 @@
 # ML-Stuff
+<h3>Index</h3>
+
+| Title | Sub-Domain | Remarks |
+|     :---:    |     :---:      |     :---:     |
+| [20BCSD80_Movie_Recommender_System.ipynb](20BCSD80_Movie_Recommender_System.ipynb) | Collaborative Filtering | Movie Recommender using the MovieLens 1mil dataset |
+| [20BCSD80_KNN_LogisticRegression.ipynb](20BCSD80_KNN_LogisticRegression.ipynb) | KNN, Logistic Regression | Find probability of a person purchasing a plot given `age` and `salary` |
+| [20BCSD80_Linear_Regression.ipynb](20BCSD80_Linear_Regression.ipynb)     | Linear Regression      |  Using dataset “investment_data.csv”, find turnover for specified values.      |
+| [20BCSD80_Project%203.ipynb](20BCSD80_Project%203.ipynb)   | Linear Regression     | Finding out per capita income of a Canadian Citizen    |
+
+
+
   <h3>Update (Mar 23, 2023)</h3>
   
   I'll be picking this repo back up for most of my Machine Learning and Deep Learning Projects since I've garnered a newfound appreciation for this field. I'd be lying if I said Stable Diffusion(Yes, Midjourney) and Natural Language Models(Yes, ChatGPT) had nothing to do with this "appreciation".  
@@ -9,6 +20,7 @@ In the meantime, I'm also re-learning how to use TensorFlow and PyTorch so I hav
 
 - anything starting with 20BCSD80 is part of the course I took a couple years back
 - I'm hoping to make this a compendium of sorts, for any ML stuff I learn. Hopefully, I'd make projects big enough to warrant their own repos after some time, but for now, I'll be using this  
+- I'm making an index
 
 <h3>Initial commit</h3>
 Projects for a ML course that I attended last year.  

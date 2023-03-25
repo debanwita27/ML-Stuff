@@ -3,6 +3,7 @@
 
 | Title | Sub-Domain | Remarks |
 |     :---:    |     :---:      |     :---:     |
+| [NeuralNet.ipynb](NeuralNet.ipynb) | Backpropagation and SGD | Neural Network from scratch to recognise digits from the [MNIST](mnist.pkl.gz) dataset that I made while following [this ebook](http://neuralnetworksanddeeplearning.com/). Uses backpropagation, mini batch stochastic gradient descent and Logistic function as loss|
 | [20BCSD80_Movie_Recommender_System.ipynb](20BCSD80_Movie_Recommender_System.ipynb) | Collaborative Filtering | Movie Recommender using the MovieLens 1mil dataset |
 | [20BCSD80_KNN_LogisticRegression.ipynb](20BCSD80_KNN_LogisticRegression.ipynb) | KNN, Logistic Regression | Find probability of a person purchasing a plot given `age` and `salary` |
 | [20BCSD80_Linear_Regression.ipynb](20BCSD80_Linear_Regression.ipynb)     | Linear Regression      |  Using dataset “investment_data.csv”, find turnover for specified values.      |
